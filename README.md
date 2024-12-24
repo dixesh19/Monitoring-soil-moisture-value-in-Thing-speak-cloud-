@@ -98,9 +98,9 @@ char pass[] = "monkeyDluffy";
 int keyIndex = 0;
 WiFiClient  client;
 
-unsigned long myChannelNumber = 2742096;
+unsigned long myChannelNumber = 2792150;
 const int ChannelField = 1; 
-const char * myWriteAPIKey = "K5S84Z1RIXLRX3KB";
+const char * myWriteAPIKey = "0QH0SFYRBXCSUQUY";
 
 const int airValue = 4095; 
 const int waterValue = 0;
