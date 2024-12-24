@@ -94,7 +94,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include "ThingSpeak.h" 
 #define Soil_Moisture 34
 char ssid[] = "Dinesh";
-char pass[] = "luffy";
+char pass[] = "monkeyDluffy";
 int keyIndex = 0;
 WiFiClient  client;
 
