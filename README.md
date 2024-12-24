@@ -93,14 +93,14 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include <WiFi.h>
 #include "ThingSpeak.h" 
 #define Soil_Moisture 34
-char ssid[] = "Akshay";
-char pass[] = "Loid D Ackerman :)";
+char ssid[] = "Dinesh";
+char pass[] = "luffy";
 int keyIndex = 0;
 WiFiClient  client;
 
-unsigned long myChannelNumber = 2792150;
+unsigned long myChannelNumber = 2742096;
 const int ChannelField = 1; 
-const char * myWriteAPIKey = "0QH0SFYRBXCSUQUY";
+const char * myWriteAPIKey = "K5S84Z1RIXLRX3KB";
 
 const int airValue = 4095; 
 const int waterValue = 0;
